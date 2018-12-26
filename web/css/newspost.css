@@ -6,7 +6,6 @@
     background-color: rgba(255, 255, 255, 0.8);
     margin-bottom: 10px;
     min-height: 120px;
-    margin-left:12px;
 
 }
 
@@ -24,7 +23,7 @@ body{
 }
 
 .HeadshotContainer{
-    width: 1050px;
+    width: 950px;
     padding: 10px;
 }
 
@@ -56,7 +55,7 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
-    width:1025px;
+    width:1000px;
     background-color: rgba(255, 255, 255, 0.8);
 }
 #newsposts{

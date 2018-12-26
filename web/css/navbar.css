@@ -70,12 +70,17 @@
 	color: #06ffc9;
 
 }
+.navbar{
+    margin-left: auto;
+    margin-right: auto;
+    width:1025px;
+}
 
 
 ul.menuPureCSS {
     list-style-type: none;
     z-index: 13;
-		width: 1000px;
+		width: 1025px;
     margin: 0, auto;
 		text-align: center;
     padding: 0;

@@ -11,7 +11,6 @@
       <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/shogun.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/tableGuardian.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/yearnfulNode.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/newspost.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/images/Credits/AB_icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/images/Credits/Keiya.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/images/Credits/Shogunbot_Clean.png" afterDir="false" />
@@ -93,9 +92,7 @@
       <change afterPath="$PROJECT_DIR$/web/images/Credits/wm_icon.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/images/Credits/wm_icon_sauce.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/images/Credits/wm_sauce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/navbar.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/newsposts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/StoredNewsposts.dart" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart" afterDir="false" />
@@ -520,7 +517,7 @@
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state>
               <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
@@ -538,34 +535,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newspost.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="newspost.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newsposts.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/newsposts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="navbar.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/css/navbar.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="MemoNewspostController.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="119">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="e#143#166#0" expanded="true" />
               </folding>
@@ -585,11 +577,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navbar.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/navbar.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="187">
+              <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -606,8 +598,8 @@
       <file leaf-file-name="ChangeLogMemo.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="697">
+              <caret line="46" column="117" selection-start-line="46" selection-start-column="117" selection-end-line="46" selection-end-column="117" />
               <folding>
                 <element signature="e#147#170#0" expanded="true" />
               </folding>
@@ -622,10 +614,15 @@
       <find>derse</find>
       <find>container</find>
       <find>memon</find>
+      <find>menuPure</find>
+      <find>purecss</find>
+      <find>margin-left</find>
+      <find>105</find>
+      <find>margin-l</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -638,11 +635,12 @@
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/NewspostController.dart" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/main.dart" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart" />
-        <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart" />
-        <option value="$PROJECT_DIR$/web/css/newspost.css" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart" />
         <option value="$PROJECT_DIR$/web/newsposts.html" />
+        <option value="$PROJECT_DIR$/web/css/navbar.css" />
         <option value="$PROJECT_DIR$/web/navbar.txt" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart" />
+        <option value="$PROJECT_DIR$/web/css/newspost.css" />
       </list>
     </option>
   </component>
@@ -1018,27 +1016,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#147#170#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1058,18 +1039,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state>
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="e#143#166#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1083,9 +1054,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/navbar.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/newsposts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1093,10 +1061,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/navbar.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="85" selection-start-line="11" selection-start-column="85" selection-end-line="11" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#143#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="46" column="117" selection-start-line="46" selection-start-column="117" selection-end-line="46" selection-end-column="117" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

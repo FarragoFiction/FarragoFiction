@@ -18,11 +18,7 @@ class ChangeLogMemo {
     static Wrangler tableGuardian;
     static Wrangler shogun;
     static Wrangler insufferableOracle;
-
-
-
-
-
+    static Wrangler yearnfulNode;
 
 
     static ChangeLogMemo _instance;
@@ -48,6 +44,7 @@ class ChangeLogMemo {
 
         shogun = new Wrangler("shogun", "images/Credits/shogun_icon$end", new Colour.fromStyleString("#00ff00"));
         tableGuardian = new Wrangler("tableGuardian", "images/Credits/tg_icon$end", new Colour.fromStyleString("#ff3399"));
+        yearnfulNode = new Wrangler("yearnfulNode", "images/Credits/yn_icon$end", new Colour.fromStyleString("#ffc40d"));
 
 
     }

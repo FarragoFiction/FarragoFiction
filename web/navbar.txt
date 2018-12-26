@@ -5,8 +5,11 @@
             </table>
 
 </div>
+<div class = 'navbar'>
 <ul class = "menuPureCSS">
   <span class = 'centeredMenu'>
+  <li class = "menuButtonPureCSS"><a href="http://www.farragofiction.com">HOME</a></li>
+  <li class = "menuButtonPureCSS"><a href="http://www.farragofiction.com/newpost.html">NEWS</a></li>
 
   <li class = "menuButtonPureCSS"><a href="https://discord.gg/KPunMPc">DISCORD</a></li>
     <li class = "menuButtonPureCSS"><a href="https://farrago-fiction.myshopify.com/">MERCH</a></li>
@@ -15,3 +18,4 @@
 
   </span>
 </ul>
+</div>

@@ -535,11 +535,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newspost.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="newspost.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/bio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BioController.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/BioController.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -558,27 +579,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
               <caret line="82" selection-start-line="82" selection-end-line="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemoNewspostController.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="e#143#166#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navbar.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/navbar.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -626,9 +626,9 @@
       <find>margin-l</find>
       <find>whitecenter</find>
       <find>output</find>
-      <find>background-co</find>
       <find>purecss</find>
       <find>icon</find>
+      <find>background-co</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -651,6 +651,8 @@
         <option value="$PROJECT_DIR$/web/css/navbar.css" />
         <option value="$PROJECT_DIR$/web/css/index.css" />
         <option value="$PROJECT_DIR$/web/css/newspost.css" />
+        <option value="$PROJECT_DIR$/web/bio.html" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/BioController.dart" />
       </list>
     </option>
   </component>
@@ -689,12 +691,6 @@
               <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
               <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -703,14 +699,6 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="Newsposts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -724,10 +712,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\css" />
-      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web" />
-      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\images" />
       <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\scripts\Controllers" />
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web" />
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\css" />
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\images" />
       <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\WranglerNewsposts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -1109,6 +1097,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/bio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/BioController.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

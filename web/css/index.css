@@ -17,6 +17,21 @@ body{
   background-image: url("../images/backgrounds/Letter_Jumble_Tiled_Green.png");
 }
 
+#indexNewspostContainer{
+    width:auto;
+	margin-left: auto;
+	margin-right: auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+        margin-bottom:10px;
+}
+
+#output{
+    width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+    padding: 10px;
+}
 #headerImg{
     margin-left: 10px;
 }

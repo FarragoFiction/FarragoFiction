@@ -9,6 +9,16 @@
 
 }
 
+.MemoTeaser{
+padding: 10px;
+    vertical-align: top;
+    width: 980px;
+    border: 1px solid #1D572E;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 10px;
+    min-height: 120px;
+}
+
 .MemoNewspostText{
   vertical-align: top;
 }

@@ -60,11 +60,15 @@ class ChangeLogMemo {
     }
 
     void render(Element div) {
-        //TODO sort by date;
         newsposts.sort();
         for(MemoNewspost m in newsposts) {
             m.render(div);
         }
+    }
+
+    void renderNewest(Element div) {
+        newsposts.sort();
+        newsposts.first.renderTeaser(div);
     }
 }
 
@@ -90,6 +94,9 @@ class MemoNewspost implements Comparable<MemoNewspost> {
         ChangeLogMemo.instance.newsposts.add(this);
     }
 
+    void renderTeaser(Element div) {
+        poster.renderSingleLine(div,date,text);
+    }
     void render(Element div) {
         poster.renderLine(div, date, text);
     }

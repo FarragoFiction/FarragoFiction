@@ -1,8 +1,18 @@
+import 'Newsposts/ChangeLogMemo.dart';
+import 'Newsposts/Wrangler.dart';
+import 'dart:async';
 import 'dart:html';
-import 'package:CommonLib/Utility.dart';
 
-void main() {
+import 'package:CommonLib/src/navbar/navbar.dart';
+
+Future<Null> main() async{
+  await loadNavbar();
   Element output = querySelector('#output');
-  AnchorElement anchor = new AnchorElement(href: "newsposts.html")..text = "Newsposts";
-  output.append(anchor);
+
+
+  ChangeLogMemo.init();
+  for(Wrangler w in Wrangler.all) {
+    await w.slurpNewsposts();
+  }
+  ChangeLogMemo.instance.renderNewest(output);
 }

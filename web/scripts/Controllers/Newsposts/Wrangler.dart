@@ -60,6 +60,17 @@ class Wrangler {
     void renderLine(Element div, DateTime date, String text) {
         Element container = new DivElement();
         container.classes.add("MemoNewspost");
+        renderLineCore(container,div,date,text);
+    }
+
+    void renderSingleLine(Element div, DateTime date, String text) {
+        Element container = new DivElement();
+        container.classes.add("MemoTeaser");
+        renderLineCore(container,div,date,text);
+    }
+
+    void renderLineCore(Element container, Element div, DateTime date, String text) {
+
 
         Element headerContainer = new DivElement();
 

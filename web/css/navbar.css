@@ -81,7 +81,7 @@ ul.menuPureCSS {
     list-style-type: none;
     z-index: 13;
 		width: 1025px;
-    margin: 0, auto;
+    margin: 8px;
 		text-align: center;
     padding: 0;
     overflow: hidden;

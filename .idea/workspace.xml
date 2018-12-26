@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54df21cc-3551-416b-a09e-a4ad8266c0e3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/insufferableOracle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/paradoxLands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/shogun.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/tableGuardian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WranglerNewsposts/yearnfulNode.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/newspost.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/AB_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/Keiya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/Shogunbot_Clean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/Shogunbot_CleanOld.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/Smith_of_Dreams_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/Smith_of_Dreams_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/ZenithNadir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/ab_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/ab_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/abj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/abj_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/abj_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/abj_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/ailuroTemplar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/artificialArtificer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/aspiringWatcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/authorHussieIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/authorTrollsonaIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/author_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/aw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/aw_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/aw_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/aw_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/body_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/creators_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/dm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/dm_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/dm_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/dm_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/godTierParty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/grinchJR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/guide_bot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/io.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/io_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/io_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/io_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/jadedResearcher_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/jadedResearcher_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/jrSymbolic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/kr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/kr_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/manicInsomniac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/mi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/mi_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/mi_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/mi_icon_sauce2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/mi_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/ohokay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/paradoxLands_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/pl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/pl_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/pl_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/pl_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/politicalBass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/quantumlyUnstable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/recursiveSlacker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/recursiveSlackerEasterEgg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/rs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/rs_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/rs_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/rs_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/sb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/sb_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/sb_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/sb_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/shogun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/shogun_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/shogun_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/shogun_is_a_leperchaun.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/shogun_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/sirMeme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/tg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/tg_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/tg_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/tg_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/wendysIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/wm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/wm_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/wm_icon_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/Credits/wm_sauce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/navbar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/newsposts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/StoredNewsposts.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/FarragoFiction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Blood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/BloodBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Breath.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/BreathBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Doom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/DoomBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/HeartBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Hope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/HopeBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Life.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/LifeBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/LightBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Mind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/MindBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Rage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/RageBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Space.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/SpaceBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/TimeBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/Void.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/VoidBig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/blood_forehead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/heart_forehead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/mind_forehead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Aspects/rage_forehead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Bard_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Heir_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Knight_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Mage_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Page_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Prince_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Rogue_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Seer_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Sylph_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Thief_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/Witch_of_Egg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/baby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/baby1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/baby2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/baby3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/cool2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/cool23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/cool_and_new.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/coolk1dlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/coolk1dshades.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/coolk1dsword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/dream013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/grub.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/grub1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/grub2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/grub3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/jr_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/reg013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/scout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/scout_beanie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/waste_dream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/waste_god.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Bodies/waste_reg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/Hair7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair254.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back254.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Hair/hair_back9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/left9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/righ16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Horns/right9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing5edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/Wings/wing9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/Dagger_stab2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/Derse_symbol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/blood_puddle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/blood_splatter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/bloody_face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/calm_scratch_face.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/denizoned.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/fin1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/fin2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/ghostGradient.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/grimdark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/prince_hat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/Homestuck/misc/stab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/RenderingAssets/farragotransfer.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/SBURBSimulator/.idea/SBURBSimulator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/SBURBSimulator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wrangler.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding>
+                <element signature="e#130#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newspost.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newsposts.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/newsposts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/navbar.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="MemoNewspostController.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="e#143#166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-1a0617a0b2d9bdb482462fd5494d4647aa88fc83/lib/src/navbar/navbar.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/navbar.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="95" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeLogMemo.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#147#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>derse</find>
+      <find>container</find>
+      <find>memon</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/web" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/css/index.css" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/WranglerNewsposts/yearnfulNode.txt" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/StoredNewsposts.dart" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/NewspostController.dart" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/main.dart" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart" />
+        <option value="$PROJECT_DIR$/web/css/newspost.css" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart" />
+        <option value="$PROJECT_DIR$/web/newsposts.html" />
+        <option value="$PROJECT_DIR$/web/navbar.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="38" />
+    <option name="y" value="58" />
+    <option name="width" value="2970" />
+    <option name="height" value="1712" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Newsposts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\css" />
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web" />
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\images" />
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\scripts\Controllers" />
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\WranglerNewsposts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jadedResearcher\IdeaProjects\FarragoFiction\web\scripts\Controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54df21cc-3551-416b-a09e-a4ad8266c0e3" name="Default" comment="" />
+      <created>1545838420566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545838420566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32886723" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983074" />
+      <window_info anchor="bottom" id="Dart Dev Server" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32886723" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#130#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#143#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-1a0617a0b2d9bdb482462fd5494d4647aa88fc83/lib/src/navbar/navbar.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/navbar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="95" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-246e98c89e35fcd83de33cda925856b4027b4923/lib/src/logging/tracer.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/newsposts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="23" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="e#130#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/newsposts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="75" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/indexbak.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/StoredNewsposts.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="6" column="18" selection-start-line="6" selection-end-line="7" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#143#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/farrago.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/shogun.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/yearnfulNode.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ArtistNewspostController.dart" />
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/NewspostController.dart" />
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/StoredNewsposts.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-246e98c89e35fcd83de33cda925856b4027b4923/lib/Logging.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-246e98c89e35fcd83de33cda925856b4027b4923/lib/src/logging/tracer.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#130#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/newspost.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/indexbak.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="95" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#143#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-1a0617a0b2d9bdb482462fd5494d4647aa88fc83/lib/src/navbar/navbar.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/navbar.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/newsposts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/navbar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

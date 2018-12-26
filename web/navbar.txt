@@ -1,0 +1,17 @@
+<div class = "banner">
+<table><tr><td>
+      <a href = "http://farragofiction.com"><img src = "images/headers/fflogoSmol.png"/></a></td>
+            </tr>
+            </table>
+
+</div>
+<ul class = "menuPureCSS">
+  <span class = 'centeredMenu'>
+
+  <li class = "menuButtonPureCSS"><a href="https://discord.gg/KPunMPc">DISCORD</a></li>
+    <li class = "menuButtonPureCSS"><a href="https://farrago-fiction.myshopify.com/">MERCH</a></li>
+
+  <li class = "menuButtonPureCSS"><a href="http://www.patreon.com/FarragoFiction">PATREON</a></li>
+
+  </span>
+</ul>

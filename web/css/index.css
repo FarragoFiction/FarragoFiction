@@ -1,0 +1,63 @@
+.quote{
+  padding: 10px;
+  width: 470px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid #fbf9d8;
+  background-color: #f9f49c;
+  height: 100px;
+}
+
+.attribution{
+  padding: 10px;
+}
+
+body{
+  background-image: url("../images/backgrounds/Letter_Jumble_Tiled_Green.png");
+}
+
+#headerImg{
+    margin-left: 10px;
+}
+
+#header{
+  width: 1000px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+}
+
+.void{
+  display:none;
+}
+
+.intro{
+  padding: 10px;
+}
+
+.focus_project{
+  display: inline-block;
+  padding: 15px;
+}
+
+.projectIcon{
+    width: 150px;
+}
+.project{
+  display: inline-block;
+  padding: 15px;
+}
+
+.projectTitle{
+  font-size: 24px;
+  text-align: center;
+}
+
+.whiteCenterThingy{
+	width:1000px;
+	background-color: #fcf9bd;
+	margin-left: auto;
+	margin-right: auto;
+}

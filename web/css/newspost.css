@@ -1,0 +1,116 @@
+.MemoNewspost{
+    padding: 10px;
+    vertical-align: top;
+    width: 960px;
+    border: 1px solid #1D572E;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 10px;
+    min-height: 120px;
+    margin-left:12px;
+
+}
+
+.MemoNewspostText{
+  vertical-align: top;
+}
+
+
+body{
+  background-image: url("../images/backgrounds/Letter_Jumble_Tiled_Green.png");
+}
+
+.Header{
+    height: 100px;
+}
+
+.HeadshotContainer{
+    width: 1050px;
+    padding: 10px;
+}
+
+.Headshot{
+    width: 130px;
+    display: inline-block;
+    margin-bottom: 13px;
+}
+
+a:link {
+    color: black;
+    vertical-align: top;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+    vertical-align: top;
+
+}
+
+/* mouse over link */
+a:hover {
+    color: grey;
+    vertical-align: top;
+}
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width:1025px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+#newsposts{
+  width:300px;
+  display: inline-block;
+  padding: 10px;
+  vertical-align: top;
+}
+
+.strikethroughStuff{
+ text-decoration: line-through
+}
+
+.void{
+	display: none;
+	background-color: #000066;
+	color: #ffffff;
+}
+
+
+
+
+
+#newspostsMain{
+  display: inline-block;
+  width:300px;
+  vertical-align: top;
+  padding: 10px;
+}
+#robo_newsposts{
+    color: red;
+    display: inline-block;
+    width:300px;
+    vertical-align: top;
+    padding: 10px;
+}
+
+#artist_newsposts{
+  width:1000px;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  vertical-align: top;
+}
+
+#artist_newspostsMain{
+  color:#000000;
+  vertical-align: top;
+  display: inline-block;
+  width:300px;
+  padding: 10px;
+}
+
+#artist_h1{
+  color:#FCF9BD;
+}

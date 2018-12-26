@@ -1,0 +1,212 @@
+<component name="libraryTable">
+  <library name="Dart Packages" type="DartPackagesLibraryType">
+    <properties>
+      <option name="packageNameToDirsMap">
+        <entry key="CommonLib">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-1a0617a0b2d9bdb482462fd5494d4647aa88fc83/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="args">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/args-1.5.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="async">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/async-1.13.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="barback">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/barback-0.15.2+15/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="browser">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/browser-0.10.0+3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="charcode">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="collection">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.6/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="csslib">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/csslib-0.14.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="dart_to_js_script_rewriter">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/dart_to_js_script_rewriter-1.0.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="html">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/html-0.13.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="http">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/http-0.11.3+16/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="http_parser">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/http_parser-3.1.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="logging">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/logging-0.11.3+2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="meta">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/meta-1.1.6/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="package_config">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/package_config-1.0.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="package_resolver">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/package_resolver-1.0.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="path">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/path-1.5.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pool">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/pool-1.3.4/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="source_map_stack_trace">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/source_map_stack_trace-1.1.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="source_maps">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/source_maps-0.10.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="source_span">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/source_span-1.4.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="stack_trace">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="string_scanner">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/string_scanner-1.0.4/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="typed_data">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.1.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="utf">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/utf-0.9.0+3/lib" />
+            </list>
+          </value>
+        </entry>
+      </option>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/git/CommonLib-1a0617a0b2d9bdb482462fd5494d4647aa88fc83/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/args-1.5.1/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/async-1.13.3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/barback-0.15.2+15/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/browser-0.10.0+3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.6/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/csslib-0.14.3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/dart_to_js_script_rewriter-1.0.3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/html-0.13.3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/http-0.11.3+16/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/http_parser-3.1.2/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/logging-0.11.3+2/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/meta-1.1.6/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/package_config-1.0.3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/package_resolver-1.0.2/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/path-1.5.1/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/pool-1.3.4/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/source_map_stack_trace-1.1.5/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/source_maps-0.10.5/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/source_span-1.4.1/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stack_trace-1.9.3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/string_scanner-1.0.4/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.1.5/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/utf-0.9.0+3/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

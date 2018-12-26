@@ -1,0 +1,109 @@
+
+.bio{
+    padding: 10px;
+}
+.bioPic{
+    padding: 10px;
+    background: white;
+    border: 1px solid black;
+    margin-right: 10px;
+}
+
+.void{
+	display: none;
+	background-color: #000066;
+	color: #ffffff;
+}
+
+
+.avatar{
+    width:300px;
+}
+
+.nameHeader{
+    font-size: 33;
+}
+
+.statHeader{
+    font-weight: bold;
+}
+
+.mainText{
+    padding-top: 10px;
+}
+
+.rightCol{
+   width: 800px;
+   vertical-align: top;
+   border: 1px solid black;
+   padding: 10px;
+}
+
+.mind{
+    background: #387742;
+    color: #06FFC9;
+
+}
+
+.dream{
+    background: #fcf9bd;
+    color: #9630bf;
+}
+
+.robot{
+    background: #B6B6B6;
+    color: #0000FF;
+}
+
+
+.sauce{
+    background: #616161;
+    color: #00ff00;
+}
+
+
+.doom{
+    background: #204020;
+    color: #0F0F0F;
+}
+
+.life{
+    background: #CCC4B5;
+    color: #76C34E;
+}
+
+.breath{
+    background: #10E0FF;
+    color: #006BE1;
+}
+
+.heart{
+    background: #6B0829;
+    color: #ff3399;
+}
+
+.juice{
+    background: #ff0000;
+    color: #fff000;
+}
+
+.space{
+    background: #030303;
+    color: #ffffff;
+}
+
+
+.time{
+    background: #8E1516;
+    color: #FF2106;
+}
+
+.hope{
+    background: #ffc40d;
+    color: #334633;
+}
+
+.voidColor{
+    background: #033476;
+    color: #a5d7ec;
+}

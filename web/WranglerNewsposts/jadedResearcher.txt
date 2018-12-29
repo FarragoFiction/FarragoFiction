@@ -1,1 +1,2 @@
+2018-12-29: Spamming "adopt" for free in wiggler sim is no longer possible (no WONDER people kept draining the damn TIMEHOLE). While i was at it I also fixed this bug where you couldn't abandon wigglers if your empress didn't ALSO allow you to trade them.
 2018-12-26: Wow, I finally got around to porting SBURBSim's newpost engine to the home page???

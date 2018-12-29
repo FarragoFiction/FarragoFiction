@@ -9,7 +9,7 @@
 <ul class = "menuPureCSS">
   <span class = 'centeredMenu'>
   <li class = "menuButtonPureCSS"><a href="index.html">HOME</a></li>
-  <li class = "menuButtonPureCSS"><a href="newpost.html">NEWS</a></li>
+  <li class = "menuButtonPureCSS"><a href="newsposts.html">NEWS</a></li>
 
   <li class = "menuButtonPureCSS"><a href="https://discord.gg/KPunMPc">DISCORD</a></li>
     <li class = "menuButtonPureCSS"><a href="https://farrago-fiction.myshopify.com/collections/all/">MERCH</a></li>

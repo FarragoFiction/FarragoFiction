@@ -50,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jadedResearcher.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jadedResearcher.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="118" selection-start-column="118" selection-end-column="118" />
+              <caret selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aspiringWatcher.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -94,15 +103,6 @@
               <folding>
                 <element signature="e#147#170#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shogun.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/shogun.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -149,7 +149,6 @@
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/yearnfulNode.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/farragotransfer.sh" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/farragotransferpublic.sh" />
-        <option value="$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/paradoxLands.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/tableGuardian.txt" />
         <option value="$PROJECT_DIR$/web/bio.html" />
@@ -160,6 +159,7 @@
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt" />
+        <option value="$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt" />
       </list>
     </option>
   </component>
@@ -528,9 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/paradoxLands.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -643,7 +640,14 @@
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="118" selection-start-column="118" selection-end-column="118" />
+          <caret selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>

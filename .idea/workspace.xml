@@ -38,20 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/navbar.txt">
+      <file leaf-file-name="MemoNewspostController.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state relative-caret-position="336">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#143#166#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jadedResearcher.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jadedResearcher.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="11" />
+              <caret column="118" selection-start-column="118" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -60,25 +63,16 @@
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-column="11" />
+              <caret column="157" selection-start-column="157" selection-end-column="157" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insufferableOracle.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="insufferableOracle.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/insufferableOracle.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yearnfulNode.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/yearnfulNode.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="11" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -86,8 +80,20 @@
       <file leaf-file-name="manicInsomniac.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="17">
+              <caret line="1" column="316" selection-start-line="1" selection-start-column="316" selection-end-line="1" selection-end-column="316" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeLogMemo.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+              <folding>
+                <element signature="e#147#170#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,12 +154,12 @@
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/tableGuardian.txt" />
         <option value="$PROJECT_DIR$/web/bio.html" />
         <option value="$PROJECT_DIR$/web/navbar.txt" />
-        <option value="$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/shogun.txt" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/BioController.dart" />
-        <option value="$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt" />
-        <option value="$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/insufferableOracle.txt" />
+        <option value="$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt" />
+        <option value="$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt" />
+        <option value="$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt" />
       </list>
     </option>
   </component>
@@ -200,6 +206,14 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Newsposts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
@@ -310,6 +324,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -380,6 +397,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="6" column="18" selection-start-line="6" selection-end-line="7" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -387,6 +407,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#143#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -432,24 +455,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/main.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -556,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/shogun.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -597,24 +599,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-column="11" />
+          <caret column="157" selection-start-column="157" selection-end-column="157" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/insufferableOracle.txt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#143#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+          <folding>
+            <element signature="e#147#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="316" selection-start-line="1" selection-start-column="316" selection-end-line="1" selection-end-column="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+          <caret column="118" selection-start-column="118" selection-end-column="118" />
         </state>
       </provider>
     </entry>

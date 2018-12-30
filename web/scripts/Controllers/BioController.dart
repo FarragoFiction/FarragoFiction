@@ -1,12 +1,15 @@
+import 'dart:async';
 import 'dart:html';
 
 import 'package:CommonLib/src/navbar/navbar.dart';
 
 //bare minimum for a page.
-void main() {
-  loadNavbar();
+Future<Null> main() async {
+  await loadNavbar();
   //TODO hide all wranglers but the one passed in the command line. if none past, display error.
-  displayBio();
+  window.onLoad.listen((Event e) {
+    displayBio();
+  });
 }
 
 void displayBio() {
@@ -17,10 +20,8 @@ void displayBio() {
     changeAvatar(staff);
   }
   Element div = querySelector("#$staff");
+  print("got div of $div from looking for element with id $staff");
   if(div != null) div.classes.remove("void");
-
-
-
 }
 
 

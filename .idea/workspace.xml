@@ -21,13 +21,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BioController.dart" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BioController.dart" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/BioController.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="170">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -74,15 +74,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build/web/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -150,9 +141,9 @@
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/tableGuardian.txt" />
         <option value="$PROJECT_DIR$/web/bio.html" />
         <option value="$PROJECT_DIR$/web/navbar.txt" />
-        <option value="$PROJECT_DIR$/web/scripts/Controllers/BioController.dart" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/shogun.txt" />
+        <option value="$PROJECT_DIR$/web/scripts/Controllers/BioController.dart" />
       </list>
     </option>
   </component>
@@ -175,17 +166,6 @@
             <path>
               <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
               <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FarragoFiction" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FarragoFiction" type="b2602c69:ProjectViewProjectNode" />
@@ -282,7 +262,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32886723" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32886723" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32886723" />
@@ -290,7 +270,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24509141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24509141" />
       <window_info anchor="bottom" id="Dart Dev Server" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -443,6 +423,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -580,23 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/BioController.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/yearnfulNode.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -622,6 +588,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/BioController.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

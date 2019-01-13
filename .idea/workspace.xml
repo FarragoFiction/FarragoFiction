@@ -21,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="karmicRetribution.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="karmicRetribution.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jadedResearcher.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jadedResearcher.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="153" selection-start-column="153" selection-end-column="153" />
+              <caret column="306" selection-start-column="306" selection-end-column="306" />
             </state>
           </provider>
         </entry>
@@ -60,8 +60,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+            <state relative-caret-position="126">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
@@ -154,17 +154,17 @@
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/insufferableOracle.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt" />
         <option value="$PROJECT_DIR$/web/navbar.txt" />
-        <option value="$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt" />
         <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt" />
+        <option value="$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="16" />
-    <option name="width" value="2970" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-12" />
+    <option name="y" value="14" />
+    <option name="width" value="2000" />
     <option name="height" value="1712" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -294,19 +294,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <frame x="-6" y="7" width="1000" height="856" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24509141" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003385" side_tool="true" visible="true" weight="0.32886723" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003385" side_tool="true" visible="true" weight="0.38352272" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32886723" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37551868" />
+      <window_info anchor="bottom" id="Dart Dev Server" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -316,7 +317,6 @@
       <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.49966148" visible="true" weight="0.32886723" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Dart Dev Server" order="7" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -615,24 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="153" selection-start-column="153" selection-end-column="153" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/bio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="50" lean-forward="true" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
@@ -654,6 +640,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="164" selection-start-column="164" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="306" selection-start-column="306" selection-end-column="306" />
         </state>
       </provider>
     </entry>

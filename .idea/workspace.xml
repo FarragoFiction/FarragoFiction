@@ -33,8 +33,8 @@
       <file leaf-file-name="jadedResearcher.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="306" selection-start-column="306" selection-end-column="306" />
+            <state relative-caret-position="51">
+              <caret line="3" column="208" lean-forward="true" selection-start-line="3" selection-start-column="208" selection-end-line="3" selection-end-column="208" />
             </state>
           </provider>
         </entry>
@@ -42,8 +42,8 @@
       <file leaf-file-name="newsposts.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/newsposts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+            <state relative-caret-position="279">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -60,8 +60,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="228">
+              <caret line="143" column="349" selection-start-line="143" selection-end-line="144" />
             </state>
           </provider>
         </entry>
@@ -96,7 +96,7 @@
       <file leaf-file-name="ChangeLogMemo.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1564">
+            <state relative-caret-position="1530">
               <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
               <folding>
                 <element signature="e#147#170#0" expanded="true" />
@@ -134,7 +134,6 @@
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/StoredNewsposts.dart" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/NewspostController.dart" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/MemoNewspostController.dart" />
-        <option value="$PROJECT_DIR$/web/newsposts.html" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/Wrangler.dart" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/main.dart" />
         <option value="$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart" />
@@ -154,18 +153,19 @@
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/insufferableOracle.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/aspiringWatcher.txt" />
         <option value="$PROJECT_DIR$/web/navbar.txt" />
-        <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/manicInsomniac.txt" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/karmicRetribution.txt" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/newsposts.html" />
         <option value="$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="14" />
-    <option name="width" value="2000" />
-    <option name="height" value="1712" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="y" value="4" />
+    <option name="width" value="1000" />
+    <option name="height" value="856" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,6 +173,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,8 +237,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,18 +294,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="7" width="1000" height="856" extended-state="0" />
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003385" side_tool="true" visible="true" weight="0.38352272" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5003385" side_tool="true" visible="true" weight="0.32886723" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32886723" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37551868" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24509141" />
       <window_info anchor="bottom" id="Dart Dev Server" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -419,9 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="e#143#166#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -578,15 +575,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#143#166#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/scripts/Controllers/Newsposts/ChangeLogMemo.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
+        <state relative-caret-position="1530">
           <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
           <folding>
             <element signature="e#147#170#0" expanded="true" />
@@ -598,20 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="29" selection-start-column="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/newsposts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/navbar.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="102" selection-start-line="12" selection-start-column="102" selection-end-line="12" selection-end-column="102" />
         </state>
       </provider>
     </entry>
@@ -643,17 +623,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/navbar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="102" selection-start-line="12" selection-start-column="102" selection-end-line="12" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="228">
+          <caret line="143" column="349" selection-start-line="143" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/newsposts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="306" selection-start-column="306" selection-end-column="306" />
+        <state relative-caret-position="51">
+          <caret line="3" column="208" lean-forward="true" selection-start-line="3" selection-start-column="208" selection-end-line="3" selection-end-column="208" />
         </state>
       </provider>
     </entry>

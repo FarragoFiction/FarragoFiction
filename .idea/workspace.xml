@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="66" selection-start-column="66" selection-end-column="66" />
+              <caret column="270" selection-start-column="270" selection-end-column="270" />
             </state>
           </provider>
         </entry>
@@ -42,7 +42,7 @@
       <file leaf-file-name="newsposts.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/newsposts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
+            <state relative-caret-position="510">
               <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
             </state>
           </provider>
@@ -60,7 +60,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="2431">
               <caret line="143" column="349" selection-start-line="143" selection-end-line="144" />
             </state>
           </provider>
@@ -163,9 +163,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-2" />
-    <option name="y" value="4" />
-    <option name="width" value="1000" />
-    <option name="height" value="856" />
+    <option name="y" value="28" />
+    <option name="width" value="2022" />
+    <option name="height" value="1712" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -174,7 +174,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,6 +236,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,18 +297,16 @@
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24509141" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49898443" visible="true" weight="0.32886723" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50101554" side_tool="true" visible="true" weight="0.32886723" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5016926" side_tool="true" visible="true" weight="0.32886723" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32886723" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24509141" />
-      <window_info anchor="bottom" id="Dart Dev Server" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -317,7 +315,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Dev Server" order="7" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.49830738" visible="true" weight="0.32886723" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -618,15 +618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
+        <state relative-caret-position="2431">
           <caret line="143" column="349" selection-start-line="143" selection-end-line="144" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -639,15 +632,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/newsposts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
+        <state relative-caret-position="510">
           <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="66" selection-start-column="66" selection-end-column="66" />
+          <caret column="270" selection-start-column="270" selection-end-column="270" />
         </state>
       </provider>
     </entry>

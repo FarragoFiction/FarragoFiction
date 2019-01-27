@@ -1,6 +1,6 @@
 <div class = "banner">
 <table><tr><td>
-      <a href = "http://www.farragofiction.com"><img src = "images/headers/fflogoSmol.png"/></a></td>
+      <a href = "http://www.farragofiction.com"><img height="200px" src = "images/headers/fflogoSmol.png"/></a></td>
             </tr>
             </table>
 
@@ -19,4 +19,5 @@
 
   </span>
 </ul>
+<iframe src="https://store.steampowered.com/widget/929640/" frameborder="0" width="1000" height="190"></iframe>
 </div>

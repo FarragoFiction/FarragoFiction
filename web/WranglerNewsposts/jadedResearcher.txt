@@ -1,3 +1,5 @@
+2019-02-07: Little by little I'm figuring out how to wire the achievements into LOHAE. (stats seem right out they just don't work)
+2019-02-03: GUYS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! I did it! It took liek a week off and on but I am UNLOCKING LOHAE ACHIEVEMENTS IN STEAM! I just gotta wire it into LOHAE proper but holy shit do I feel powerful!!!
 2019-01-27: <a href ="http://farragofiction.com/LOMATE/tombstonetest.html">LOMAT Experimental</a> has a proof of concept out for how i want the online tombstones to work. Basically you make fridge poetry to share with other players of how your poor sqwawking ghost died.
 2019-01-19: WigglerSim is updated to use PL's new system (wow i forgot entirely about that) which ALSO lets WigglerSim have the rainbow horns for Lamia.
 2019-01-18: This is a canon mutation and only kr can stop me: <br><img src = 'images/newspostImages/rainbowHorns.gif'>

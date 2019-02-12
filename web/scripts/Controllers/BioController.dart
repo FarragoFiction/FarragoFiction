@@ -14,6 +14,7 @@ Future<Null> main() async {
 
 void displayBio() {
   String staff = getParameterByName("staff",null);
+  staff = staff.replaceAll("/","");
   DateTime now = new DateTime.now();
 
   if(now.month == 4 && now.day == 1) {

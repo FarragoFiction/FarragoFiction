@@ -1,3 +1,5 @@
+2019-02-15: New arc num secured :) :) :) <a href ='https://store.steampowered.com/app/929640/Farragnarok/'>Farragnarok is out on steam</a>!<br><Br>It comes with its own <a href = 'http://www.farragnarok.com'>snazzy new website, too!</a>
+2019-02-11: I defeated PHP just long enough to get a <a href ="http://www.farragnarok.com/presskit/index.php">PressKit</a> set up just like a real game company.
 2019-02-07: Little by little I'm figuring out how to wire the achievements into LOHAE. (stats seem right out they just don't work)
 2019-02-03: GUYS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! I did it! It took liek a week off and on but I am UNLOCKING LOHAE ACHIEVEMENTS IN STEAM! I just gotta wire it into LOHAE proper but holy shit do I feel powerful!!!
 2019-01-27: <a href ="http://farragofiction.com/LOMATE/tombstonetest.html">LOMAT Experimental</a> has a proof of concept out for how i want the online tombstones to work. Basically you make fridge poetry to share with other players of how your poor sqwawking ghost died.

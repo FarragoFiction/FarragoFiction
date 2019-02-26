@@ -25,6 +25,7 @@ class Wrangler {
     }
 
     Future<Null> slurpNewsposts() async{
+        print("slurping newspost for $chatHandle");
         await HttpRequest.getString(PathUtils.adjusted("WranglerNewsposts/${chatHandle}.txt")).then((String data) {
             List<String> parts = data.split(new RegExp("\n|\r"));
             //;

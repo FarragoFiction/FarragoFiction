@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54df21cc-3551-416b-a09e-a4ad8266c0e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FarragoFiction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FarragoFiction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WranglerNewsposts/paradoxLands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/web/WranglerNewsposts/paradoxLands.txt" afterDir="false" />
-    </list>
+    <list default="true" id="54df21cc-3551-416b-a09e-a4ad8266c0e3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="112" selection-start-column="112" selection-end-column="112" />
+              <caret column="421" selection-start-column="421" selection-end-column="421" />
             </state>
           </provider>
         </entry>
@@ -545,7 +539,7 @@
     <entry file="file://$PROJECT_DIR$/web/WranglerNewsposts/jadedResearcher.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="112" selection-start-column="112" selection-end-column="112" />
+          <caret column="421" selection-start-column="421" selection-end-column="421" />
         </state>
       </provider>
     </entry>

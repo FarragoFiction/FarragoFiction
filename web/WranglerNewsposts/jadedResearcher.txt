@@ -1,3 +1,4 @@
+2019-04-11: Caretakers are done! You can set up your profile (and will have to to use the timehole), but even without it you can do things like look at the <a href = 'www.farragofiction.com/WigglerSim/caretaker.html?score=board&sort=total_points'>scoreboards!</a><br><br>Hahah whoops the entire concept of items has been restored to the collective unconsciousness.
 2019-04-09: Caretakers turn out to be harder than expected???
 2019-04-03: Gonna add a caretaker update to WigglerSim. Also working on revamping the <a href = 'https://www.patreon.com/FarragoFiction'>Patreon</a>.
 2019-04-01: <a href = 'https://sburbsimulator.fandom.com/wiki/Farrago_Fiction_April_Fools_2019_Puzzle_(OdinsRazor/85)'> Loki Waits.</a>

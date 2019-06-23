@@ -20,7 +20,7 @@ class ChangeLogMemo {
     static Wrangler insufferableOracle;
     static Wrangler yearnfulNode;
     static Wrangler nebulousHarmony;
-
+    static Wrangler cactus;
     static ChangeLogMemo _instance;
 
     static void init() {
@@ -47,6 +47,7 @@ class ChangeLogMemo {
         yearnfulNode = new Wrangler("yearnfulNode", "images/Credits/yn_icon$end", new Colour.fromStyleString("#ffc40d"));
         nebulousHarmony = new Wrangler("nebulousHarmony", "images/Credits/nh_icon$end", new Colour.fromStyleString("#003300"));
 
+        cactus = new Wrangler("cactus", "images/Credits/cactus_icon$end", new Colour.fromStyleString("#ffbdfc"));
 
     }
 

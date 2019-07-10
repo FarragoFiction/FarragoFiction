@@ -10,8 +10,9 @@
   <span class = 'centeredMenu'>
   <li class = "menuButtonPureCSS"><a href="index.html">HOME</a></li>
   <li class = "menuButtonPureCSS"><a href="newsposts.html">NEWS</a></li>
-  <li class = "menuButtonPureCSS"><a href = 'https://farragofiction.us20.list-manage.com/subscribe/post?u=9c4ca0e9f18d6ca84bc4e8fbd&amp;id=511da401b1'>MAILING LIST</a></li>
+  <li class = "menuButtonPureCSS"><a href = 'https://farragofiction.us20.list-manage.com/subscribe/post?u=9c4ca0e9f18d6ca84bc4e8fbd&amp;id=511da401b1'>MAIL</a></li>
   <li class = "menuButtonPureCSS"><a href="http://www.farragofiction.com/CreditSim/index.html">CREDITS</a></li>
+  <li class = "menuButtonPureCSS"><a href="https://farragofiction.fandom.com/wiki">WIKI</a></li>
 
   <li class = "menuButtonPureCSS"><a href="https://discord.gg/KPunMPc">DISCORD</a></li>
     <li class = "menuButtonPureCSS"><a href="https://farrago-fiction.myshopify.com/collections/all/">MERCH</a></li>

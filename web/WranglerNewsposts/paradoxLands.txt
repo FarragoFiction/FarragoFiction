@@ -1,1 +1,2 @@
+2019-08-03: <a href = 'http://farragofiction.com/LOSAC/'>LOSAC</a>
 2019-03-10: Cleaning up some of the final aftershocks of the Great Refactoring, the sim is now running on dart 2.2.0, rather than the significantly outdated 1.24.2 version. This doesn't mean much for the end-user, but we're now up to date and have nicer development tools at our disposal.<br>The same version bump will be coming our other projects soon<span class="void">, including some as-yet unannounced ones which have features which rely upon some of those new tools</span>.

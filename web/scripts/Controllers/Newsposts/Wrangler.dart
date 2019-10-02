@@ -19,9 +19,11 @@ class Wrangler {
     List<MemoNewspost> posts = new List<MemoNewspost>();
 
     static List<Wrangler> all = new List<Wrangler>();
+    static Map<String, Wrangler> allWithKey = new Map<String, Wrangler>();
 
     Wrangler(String this.chatHandle, String this.headshot, Colour this.color) {
         all.add(this);
+        allWithKey[chatHandle] = this;
     }
 
     Future<Null> slurpNewsposts() async{

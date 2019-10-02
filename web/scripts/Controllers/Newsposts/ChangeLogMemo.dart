@@ -4,6 +4,8 @@
     it knows how to draw itself (by calling each newspost in order of date).
 
  */
+import 'package:CommonLib/NavBar.dart';
+
 import "Wrangler.dart";
 import 'dart:html';
 import 'package:CommonLib/Colours.dart';
@@ -49,7 +51,16 @@ class ChangeLogMemo {
 
         cactus = new Wrangler("cactus", "images/Credits/cactus_icon$end", new Colour.fromStyleString("#ffbdfc"));
 
+        if(getParameterByName("seerOfVoid",null)!= null) {
+            ButtonElement button = new ButtonElement()..text = "Peer Into the Void Y/N???";
+            querySelector("body").append(button);
+            button.onClick.listen((Event e) {
+                toggleVoid();
+            });
+        }
+
     }
+
 
     List<MemoNewspost> newsposts = new List<MemoNewspost>();
 

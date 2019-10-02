@@ -12,15 +12,11 @@ Future<Null> main() async {
   await loadNavbar();
   print("navbar");
   //TODO hide all wranglers but the one passed in the command line. if none past, display error.
-  try {
-    displayBio();
-  }catch(e) {
-    print("error displaying bio, falling back to chekcing window load");
+
     window.onLoad.listen((Event e) {
       print("window loaded");
       displayBio();
     });
-  }
 
 
 }

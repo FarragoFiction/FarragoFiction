@@ -1,1 +1,2 @@
+2019-10-02: i've been working on a spaceship game! most of the stuff is still in the works, but you can test out some of the proceedural generation & other bits <a target='blank' href = 'http://farragofiction.com/SpaceSim/hub'>here</a>
 2019-06-19: i am a cactus. i am helping a bit with bug hunts, and im making side sims.  ive also got some old stuff buried around here  as well.

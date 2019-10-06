@@ -1,3 +1,4 @@
+2019-10-06: <a href = 'http://www.farragofiction.com/PaldemicSim/'>Paldemic</a> has had an update! You can now easily turn tumblr DMS (or similar things) into paldemic chats.
 2019-10-01: On a whim I upgraded the bio system to also display any newspost by that particular wrangler AND did some mild secret gigglesnorting.
 2019-09-28: During the week I updated LOMATE to have podcast support with tombstones, and today I upgraded WigglerSim to have alumni breeding. <br>(trophy items, like nearly all wigglersim assets, are made by IO, who almost never makes newsposts)
 2019-09-22: Last weekend I did a doll slurp, this weekend I upgraded Events in <a href = '/LOMATE'>LOMAT Experimental</a> and next up I expect to allow breeding in WigglerSim.

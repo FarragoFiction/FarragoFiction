@@ -1,3 +1,4 @@
+2019-10-20: Along with yesterday's <a href = 'https://jadedresearcher.tumblr.com/post/188455287864/saturday-leak'>PODCAST LEAK</a>, the AudioLog system has been updated so that if you're sufficiently wasted it will let you know if there's an image or a Paldemic Chat associated with the passphrase.
 2019-10-19: <a href = '/LOMATE'>LOMAT Experimental</a> lets you vote on tombstones and also FENRIR is there and he talks to you???
 2019-10-06: <a href = 'http://www.farragofiction.com/PaldemicSim/'>Paldemic</a> has had an update! You can now easily turn tumblr DMS (or similar things) into paldemic chats.
 2019-10-01: On a whim I upgraded the bio system to also display any newspost by that particular wrangler AND did some mild secret gigglesnorting.

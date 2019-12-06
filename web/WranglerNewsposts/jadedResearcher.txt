@@ -1,3 +1,4 @@
+2019-12-05: Made it so the TIMEHOLE is capable of noticing if you've been especially careless with it. Should you REALLY be throwing corrupt wigglers into it? You know that shit SPREADS, right?
 2019-11-24: LOMAT's waste path is officially wired in, which means at this point we're at the polish/balance pass.<br>Towards that end I've been adding lots of polish to lomat, including ambient noises, the final intro text, and little bit extra.
 2019-11-20: AlchemySim works again.
 2019-11-17: <a href = '/LOMATE'>LOMATE</a> has had a lot of updates, including some that aren't accessible yet (the ending is done! just not wired up). There's also a major event if you manage to kill all the gulls (and its a lot easier these days, too) and then go see Fenrir (you know how to get to Fenrir, right?).<br><br>(Also, I'm pulling the trigger on TG's update to SBURBSim)

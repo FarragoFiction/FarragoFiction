@@ -1,3 +1,5 @@
+2019-01-05: LOMAT's final glitch is fixed. Credits remain, as well as the final bits of gull dialogue.  Then it'll be 1.0 and I can focus on getting it and LOHAE to talk to each other.
+2019-12-22: The final two (or is it three) gulls are in LOMAT which means all it needs left is the credits, the LOHAE tie in, and a couple bug fixes.
 2019-12-18: Working on a chill project that is also a mystery, and also getting new gulls into LOMAT.
 2019-12-05: Made it so the TIMEHOLE is capable of noticing if you've been especially careless with it. Should you REALLY be throwing corrupt wigglers into it? You know that shit SPREADS, right?
 2019-11-24: LOMAT's waste path is officially wired in, which means at this point we're at the polish/balance pass.<br>Towards that end I've been adding lots of polish to lomat, including ambient noises, the final intro text, and little bit extra.

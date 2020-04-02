@@ -46,7 +46,7 @@ class ChangeLogMemo {
 
         shogun = new Wrangler("shogun", "images/Credits/shogun_icon$end", new Colour.fromStyleString("#00ff00"));
         tableGuardian = new Wrangler("tableGuardian", "images/Credits/tg_icon$end", new Colour.fromStyleString("#ff3399"));
-        yearnfulNode = new Wrangler("yearnfulNode", "images/Credits/yn_icon$end", new Colour.fromStyleString("#ffc40d"));
+        yearnfulNode = new Wrangler("yearnfulNode", "images/Credits/yn_icon$end", new Colour.fromStyleString("#2F7FCC"));
         nebulousHarmony = new Wrangler("nebulousHarmony", "images/Credits/nh_icon$end", new Colour.fromStyleString("#003300"));
 
         cactus = new Wrangler("cactus", "images/Credits/cactus_icon$end", new Colour.fromStyleString("#ffbdfc"));

@@ -1,3 +1,4 @@
+2020-11-07: <a href = 'CloudSim'>Here</a> we have a very small and very chill little sim. Procedurally-generated clouds float across your screen, with different skies for different times of day. If you wish to turn on the sound, there is wonderful music made by Manic to go with it.<br><br>That's it, no secrets, no puzzles - I made this, not JR. It's just a nice calm, cloudy sky.
 2019-11-10:  A thing was made. It has "ants." I have contained the "ants" in a control frame for your viewing pleasure. <br><img width="300" src = 'http://farragofiction.com/AntSim/images/frame.png'>
 2019-01-18: hahhaha<Br>I'll allow it
 2019-01-10: Enjoy a visual upgrade for a chunk of the carapacians. I was trying to hold out for getting them all done at once, but holky fuck there's a lot of them.
